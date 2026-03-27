@@ -5,7 +5,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shootingstar0812)](https://solved.ac/shootingstar0812)
 
-## 📚 Skills
+## 📚 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squre&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-squre&logo=React&logoColor=white">
@@ -33,7 +33,7 @@
 </div>
 <p></p>
 
-## 🎖️ Certification
+## 🎖️ Certifications
 - 정보처리기사 <br/>
 - AWS Certified Solutions Architect – Associate <br/>
 - SQLD <br/>
