@@ -40,6 +40,7 @@
 - OPIc IM2 <br/>
 
 ## 🚀 Experience
-- AWS Cloud Club (2024.07 ~ 2025.01) <br/>
-- University MakeUs Challenge (2024.09 ~ 2025.02) <br/>
+- University MakeUs Challenge 6th Node.js (2024.03 ~ 2024.08) <br/>
+- AWS Cloud Club new 2기 (2024.07 ~ 2025.01) <br/>
+- University MakeUs Challenge 7th Spring (2024.09 ~ 2025.02) <br/>
 - CJ 올리브네트웍스 Cloud Wave (2025.12 ~ 2026.02) - 우수 수료생 <br/>
