@@ -33,7 +33,7 @@
 </div>
 <p></p>
 
-## 🎖️ Certificate
+## 🎖️ Certification
 - 정보처리기사 <br/>
 - AWS Certified Solutions Architect – Associate <br/>
 - SQLD <br/>
