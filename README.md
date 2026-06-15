@@ -37,7 +37,6 @@
 - 정보처리기사 <br/>
 - AWS Certified Solutions Architect – Associate <br/>
 - SQLD <br/>
-- OPIc IM2 <br/>
 
 ## 🚀 Experience
 - University MakeUs Challenge 6th Node.js (2024.03 ~ 2024.08) <br/>
