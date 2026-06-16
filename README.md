@@ -37,6 +37,7 @@
 - 정보처리기사 <br/>
 - AWS Certified Solutions Architect – Associate <br/>
 - SQLD <br/>
+- 리눅스마스터 2급
 
 ## 🚀 Experience
 - University MakeUs Challenge 6th Node.js (2024.03 ~ 2024.08) <br/>
